@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm serenity</h1>
+
 👀 I’m interested in creating stunning programs/>
+
 🌱 I’m currently learning python/>
+
 💞️ I’m looking to collaborate on mobile app projects/>
-📫 How to reach me [X](https://x.com/nnadi_serenity) or chimdijos8@gmail.com/>
+
 😄 Pronouns: He/Him/>
+
+
 
 
 ## 🌐 Socials:
